@@ -64,7 +64,7 @@ Zum Test der aktuellen Klasse springen      | Strg + Shift + T                  
 Alles durchsuchen                           | Shift + Shift                          | Shift + Shift                          | Shift + Shift
 Markierung erweitern/verringern             | Strg + W / Strg + Shift + W            | Strg + W / Strg + Shift + W            | Option + Pfeil hoch / Pfeil runter
 Code formatieren                            | Strg + Alt + L                         | Strg + Alt + L                         | Option + Cmd + L
-Imports optimieren                          | Strg + Shift + O                       | Strg + Shift + O                       | Ctrl + Option + O
+Imports optimieren                          | Strg + Alt + O                         | Strg + Alt + O                         | Ctrl + Option + O
 Zeilen zusammenführen                       | Strg + Shift + J                       | Strg + Shift + J                       | Ctrl + Shift + J
 Neuen Scratch öffnen                        | Strg + Shift + Alt + Einfg             | Strg + Shift + Alt + Einfg             | Ctrl + Shift + N
 Multiline Cursor                            | 2x Strg + Pfeil hoch/runter            | 2x Strg + Pfeil hoch/runter            | 2x Option + Pfeil hoch/runter
